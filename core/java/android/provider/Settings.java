@@ -17360,6 +17360,12 @@ public final class Settings {
          * @hide
          */
         public static final String BLUETOOTH_OFF_TIMEOUT = "bluetooth_off_timeout";
+
+        /**
+         * Control whether application downgrade is allowed.
+         * @hide
+         */
+        public static final String PM_DOWNGRADE_ALLOWED = "pm_downgrade_allowed";
     }
 
     /**
