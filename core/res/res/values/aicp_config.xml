@@ -321,4 +321,7 @@
     <!-- Statusbar Left-Right padding defaults -->
     <integer name="config_statusbarPaddingStartDefault">8</integer>
     <integer name="config_statusbarPaddingEndDefault">8</integer>
+
+    <!-- Whether to spoof device as Pixel XL for Google Photos -->
+    <bool name="config_spoofGooglePhotos">true</bool>
 </resources>
